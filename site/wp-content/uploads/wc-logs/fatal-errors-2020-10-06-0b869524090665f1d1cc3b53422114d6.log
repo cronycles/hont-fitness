@@ -1,0 +1,11 @@
+2020-10-06T17:26:40+00:00 CRITICAL Uncaught Error: Call to a member function is_built_with_elementor() on boolean in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/elementor/core/documents-manager.php:479
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#1 /home/crointhe/dev.crointhemorning.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/crointhe/dev.crointhemorning.com/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#3 /home/crointhe/dev.crointhemorning.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/crointhe/dev.crointhemorning.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/crointhe/dev.crointhemorning.com/wp-admin/admin-ajax.php(176): do_action('wp_ajax_element...')
+#6 {main}
+  thrown en /home/crointhe/dev.crointhemorning.com/wp-content/plugins/elementor/core/documents-manager.php en la línea 479
+

@@ -1,0 +1,174 @@
+/* Elements: Buttons */
+.button-winona.extra-large {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 20px 50px;
+    text-align: center;
+    font-family: "Ubuntu";
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 50px;
+}
+.button-winona.btn.btn-lg {
+    color: #ffffff;
+    padding: 15px 45px;
+    border: none;
+    border-radius: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: "Ubuntu";
+}
+.button-winona.btn.btn-sm {
+    color: #ffffff;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: "Ubuntu";
+}
+.button-winona.btn.btn-medium {
+    color: #ffffff;
+    padding: 15px 45px;
+    border: none;
+    border-radius: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: "Ubuntu";
+}
+.button.solid-button, 
+button.vc_btn{
+    color: #fff;
+}
+.button {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+}
+.button.outline-button {
+    border: 1px solid #FFFFFF;
+}
+.button.solid-button {
+    background: #00adf1;
+}
+.button:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.button.outline-button.mt-blue {
+    border-color: #00adf1;
+    color: #FFFFFF;
+}
+.outline-button{
+    position: relative;
+}
+.outline-button::after {
+    background: #00ADF1;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 0;
+    content: "";
+    position: absolute;
+    transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.3s ease 0s;
+    -ms-transition: all 0.3s ease 0s;
+    z-index: -1;
+}
+.outline-button:hover::after {
+    width: 100%;
+}
+.solid-button{
+    position: relative;
+    transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.3s ease 0s;
+    -ms-transition: all 0.3s ease 0s;
+}
+.solid-button::after {
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 0;
+    content: "";
+    position: absolute;
+    transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.3s ease 0s;
+    -ms-transition: all 0.3s ease 0s;
+    z-index: -1;
+}
+.solid-button:hover::after {
+    width: 100%;
+}
+.btn-primary {
+    background-color: #393939;
+    color: #FFF;
+}
+.btn-success {
+    background-color: #27ae60;
+}
+.btn-info {
+    background-color: #3498db;
+}
+.btn-warning {
+    background-color: #e67e22;
+}
+.btn-danger {
+    background-color: #e74c3c;
+}
+.btn-danger,
+.btn-warning,
+.btn-info,
+.btn-success,
+.btn-primary {
+    border: 0 none;
+}
+.btn-default:hover, 
+.btn-default:focus, 
+.btn-default.focus, 
+.btn-default:active, 
+.btn-default.active, 
+.open > .dropdown-toggle.btn-default,
+.btn-default {
+    background-color: transparent;
+    color: #FFF;
+}
+.btn-default {
+    position: relative;
+}
+.btn-default:after {
+    background: #393939;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 0;
+    content: "";
+    position: absolute;
+    transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.3s ease 0s;
+    -ms-transition: all 0.3s ease 0s;
+    z-index: -1;
+}
+.btn-default:hover:after {
+    width: 100%;
+}
+button.vc_btn {
+    transition: all 300ms;
+    -webkit-transition: all 300ms;
+}
+
+
+

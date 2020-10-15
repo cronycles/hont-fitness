@@ -1,0 +1,63 @@
+.text-dark .statistics .stats-head *{
+    color: #00aeef;
+}
+.text-dark .statistics .stats-content p {
+    color: #747474;
+}
+/*.stats-block.statistics.bordered {
+    border: 1px solid #d1d1d1;
+    padding: 10px 0;
+}*/
+.stats-block.statistics {
+    /*border: 2px solid #d1d1d1;*/
+    padding: 10px 0;
+}
+.stat-number .skill-count {
+    /*color: #ffffff;*/
+    display: block;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 43px;
+    margin-top: 10px;
+    text-align: center;
+}
+.stat-number.skill.percentage {
+    margin-bottom: 0;
+}
+.stats-head * {
+	font-size: 50px;
+	color: #FFF;
+	text-align: center;
+}
+.stats-head i {
+    clear: both;
+    display: block;
+    font-family: "FontAwesome";
+    font-size: 40px;
+    padding-right: 0;
+}
+.stats-content p {
+    /*color: #ffd600;*/
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 0;
+    text-align: center;
+    text-transform: capitalize;
+}
+.stat-number.skill {
+    /*border-bottom: 2px solid #d1d1d1;*/
+    padding: 0 0 40px;
+}
+
+
+.stat-number.skill img {
+    padding-top: 30px;
+}
+.stat-number.skill i {
+    padding-top: 30px;
+}
+
+
+
+
+

@@ -1,0 +1,27 @@
+[27-Sep-2020 15:27:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crointhe/dev.crointhemorning.com/wp-includes/functions.php:4669) in /home/crointhe/dev.crointhemorning.com/wp-includes/rest-api/class-wp-rest-server.php on line 1372
+[27-Sep-2020 15:27:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crointhe/dev.crointhemorning.com/wp-includes/functions.php:4669) in /home/crointhe/dev.crointhemorning.com/wp-includes/rest-api.php on line 660
+[27-Sep-2020 15:27:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crointhe/dev.crointhemorning.com/wp-includes/functions.php:4669) in /home/crointhe/dev.crointhemorning.com/wp-includes/rest-api.php on line 661
+[27-Sep-2020 15:27:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crointhe/dev.crointhemorning.com/wp-includes/functions.php:4669) in /home/crointhe/dev.crointhemorning.com/wp-includes/rest-api.php on line 662
+[27-Sep-2020 15:27:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/crointhe/dev.crointhemorning.com/wp-includes/functions.php:4669) in /home/crointhe/dev.crointhemorning.com/wp-includes/rest-api.php on line 663
+[12-Oct-2020 12:00:23 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 264
+[12-Oct-2020 12:00:23 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 281
+[12-Oct-2020 12:08:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 264
+[12-Oct-2020 12:08:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 281
+[12-Oct-2020 12:09:33 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 264
+[12-Oct-2020 12:09:33 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 281
+[12-Oct-2020 12:10:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 264
+[12-Oct-2020 12:10:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 281
+[12-Oct-2020 12:11:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 264
+[12-Oct-2020 12:11:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 281
+[12-Oct-2020 12:11:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 264
+[12-Oct-2020 12:11:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 281
+[12-Oct-2020 12:12:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 264
+[12-Oct-2020 12:12:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/crointhe/dev.crointhemorning.com/wp-content/plugins/essential-grid/public/essential-grid.class.php on line 281
+[12-Oct-2020 15:01:45 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[12-Oct-2020 15:04:46 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[12-Oct-2020 15:05:15 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[12-Oct-2020 15:06:03 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[12-Oct-2020 15:06:07 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[12-Oct-2020 15:11:35 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[12-Oct-2020 15:11:49 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[12-Oct-2020 15:22:38 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
